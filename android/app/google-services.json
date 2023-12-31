@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "96094519194",
+    "project_id": "agora-demo-68718",
+    "storage_bucket": "agora-demo-68718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96094519194:android:b110eec4b51afec892c423",
+        "android_client_info": {
+          "package_name": "com.example.test_agora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96094519194-3a2qope71hj9mbu5p5sdcrc9vsu3futi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_agora",
+            "certificate_hash": "ade2e675730ccd0ab211d92900e181fce38b307c"
+          }
+        },
+        {
+          "client_id": "96094519194-r55132ruj045jfchddi1l5r3ffudtc09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpd-AbBd8CywcbCziZtKvz-_IsyKbkcuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96094519194-r55132ruj045jfchddi1l5r3ffudtc09.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "96094519194-lb15l8m22cb0jbv0qeatbhv29lmknkdl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testAgora"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
